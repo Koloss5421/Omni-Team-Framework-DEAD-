@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<monthly>
+ <event>
+  <id>34</id>
+  <name>HOPE YOU VOTED!</name>
+  <startdate>2016-11-08</startdate>
+  <enddate></enddate>
+  <starttime>00:13</starttime>
+  <endtime></endtime>
+  <color>#2977FF</color>
+  <url></url>
+  <groupname>Admin</groupname>
+  <player1></player1>
+  <player2></player2>
+  <player3></player3>
+  <player4></player4>
+  <player5></player5>
+ </event>
+ <event>
+  <id>33</id>
+  <name>Test script 2</name>
+  <startdate>2016-10-28</startdate>
+  <enddate></enddate>
+  <starttime>18:00</starttime>
+  <endtime></endtime>
+  <color>#6A29FF</color>
+  <url></url>
+  <groupname>Admin</groupname>
+  <player1></player1>
+  <player2></player2>
+  <player3></player3>
+  <player4></player4>
+  <player5></player5>
+ </event>
+ <event>
+  <id>32</id>
+  <name>Script test</name>
+  <startdate>2016-10-28</startdate>
+  <enddate></enddate>
+  <starttime>17:00</starttime>
+  <endtime></endtime>
+  <color>#72FF30</color>
+  <url></url>
+  <groupname>Admin</groupname>
+  <player1></player1>
+  <player2></player2>
+  <player3></player3>
+  <player4></player4>
+  <player5></player5>
+ </event>
+ <event>
+  <id>35</id>
+  <name>Cronjob Test</name>
+  <startdate>2016-11-09</startdate>
+  <enddate></enddate>
+  <starttime>18:30</starttime>
+  <endtime></endtime>
+  <color>#19FF75</color>
+  <url></url>
+  <groupname>Admin</groupname>
+  <player1>Koloss</player1>
+  <player2></player2>
+  <player3></player3>
+  <player4></player4>
+  <player5></player5>
+ </event>
+</monthly>

@@ -1,0 +1,58 @@
+@media (min-width: 992px) {
+	.otf-admin-content {
+		margin-left: 200px;
+		width: auto;
+		height: calc(100vh - 60px);
+		overflow-y: auto;
+		padding-left: 20px;
+		padding-right: 40px;
+		padding-top: 20px;
+	}
+	.admin-nav {
+		position: absolute;
+		background-color: #222;
+		height: calc(100vh - 59px);
+		min-width: 200px;
+		float: left;
+			
+	}
+	.admin-nav .side-footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		text-align: center;
+	}
+	.admin-nav ul {
+		width: 100%;
+		margin-right: 30px;
+		list-style: none;
+		padding: 0;
+		
+	}
+	.admin-nav ul .nav-divider {
+		position: relative;
+		color: #FFF;
+		text-transform: uppercase;
+		padding-left: 20px;
+		font-weight: lighter;
+		padding: 5px 10px;
+	}
+	.admin-nav ul li {
+		position: relative;
+		color: #0198E1;
+		
+	}
+	.admin-nav ul li a {
+		text-decoration: none;
+		display: block;
+		padding: 5px 10px;
+		width: 100%;
+		padding-left: 35px;
+		
+	}
+	.admin-nav ul li a:hover {
+		background-color: #666;
+		color: #fff;
+	}
+
+}
