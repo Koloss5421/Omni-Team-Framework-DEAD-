@@ -2,7 +2,7 @@
 /*
 
 Omni-Team Framework version 1.0
-Created By: John "Koloss" Hardin
+Created By: Koloss5421
 
 	   
 Omni-Team Framework Started out as a
@@ -17,9 +17,9 @@ Without it, there is no connecting to the database.
 */
 ## Database Connection
 define("DBHOST", "localhost");
-define("DBUSER", "jofrud_caluser");
+define("DBUSER", "DBUSER");
 define("DBPASS", "PASSWORD");
-define("DBNAME", "jofrud_texcal");
+define("DBNAME", "DBNAME");
 ## Global Settings
 define("RIOTAPIKEY", "RIOTAPIKEY");
 define("RIOTREGION", "NA");
